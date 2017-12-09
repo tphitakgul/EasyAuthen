@@ -17,6 +17,8 @@
 		187937461FDBD5A800042CC9 /* 17241-200.png in Resources */ = {isa = PBXBuildFile; fileRef = 187937451FDBD5A700042CC9 /* 17241-200.png */; };
 		187937481FDBD5B700042CC9 /* password.png in Resources */ = {isa = PBXBuildFile; fileRef = 187937471FDBD5B600042CC9 /* password.png */; };
 		1879374A1FDBD60D00042CC9 /* 708077-200.png in Resources */ = {isa = PBXBuildFile; fileRef = 187937491FDBD60D00042CC9 /* 708077-200.png */; };
+		1879374C1FDBDB2700042CC9 /* ic_account_box_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1879374B1FDBDB1A00042CC9 /* ic_account_box_2x.png */; };
+		1879374E1FDBDB5000042CC9 /* ic_vpn_key_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1879374D1FDBDB4900042CC9 /* ic_vpn_key_2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		187937451FDBD5A700042CC9 /* 17241-200.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "17241-200.png"; sourceTree = "<group>"; };
 		187937471FDBD5B600042CC9 /* password.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = password.png; sourceTree = "<group>"; };
 		187937491FDBD60D00042CC9 /* 708077-200.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "708077-200.png"; sourceTree = "<group>"; };
+		1879374B1FDBDB1A00042CC9 /* ic_account_box_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_account_box_2x.png; sourceTree = "<group>"; };
+		1879374D1FDBDB4900042CC9 /* ic_vpn_key_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_vpn_key_2x.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,8 @@
 				18049D3F1FDBCE4200873082 /* ViewController.swift */,
 				18049D411FDBCE4200873082 /* Main.storyboard */,
 				18049D441FDBCE4200873082 /* Assets.xcassets */,
+				1879374D1FDBDB4900042CC9 /* ic_vpn_key_2x.png */,
+				1879374B1FDBDB1A00042CC9 /* ic_account_box_2x.png */,
 				187937491FDBD60D00042CC9 /* 708077-200.png */,
 				187937471FDBD5B600042CC9 /* password.png */,
 				187937451FDBD5A700042CC9 /* 17241-200.png */,
@@ -138,7 +144,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1879374E1FDBDB5000042CC9 /* ic_vpn_key_2x.png in Resources */,
 				187937481FDBD5B700042CC9 /* password.png in Resources */,
+				1879374C1FDBDB2700042CC9 /* ic_account_box_2x.png in Resources */,
 				18049D481FDBCE4200873082 /* LaunchScreen.storyboard in Resources */,
 				187937421FDBD38600042CC9 /* Screen Shot 2560-12-09 at 9.00.14 AM.png in Resources */,
 				18049D451FDBCE4200873082 /* Assets.xcassets in Resources */,
