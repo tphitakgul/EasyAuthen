@@ -12,6 +12,11 @@
 		18049D431FDBCE4200873082 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18049D411FDBCE4200873082 /* Main.storyboard */; };
 		18049D451FDBCE4200873082 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18049D441FDBCE4200873082 /* Assets.xcassets */; };
 		18049D481FDBCE4200873082 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18049D461FDBCE4200873082 /* LaunchScreen.storyboard */; };
+		187937421FDBD38600042CC9 /* Screen Shot 2560-12-09 at 9.00.14 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 187937411FDBD38600042CC9 /* Screen Shot 2560-12-09 at 9.00.14 AM.png */; };
+		187937441FDBD46000042CC9 /* 5TH3umDkIyXN21eEKQ4OZ9Q34Snsf4RVcT7xiyyLtP838dU4B1xxlGm6DO9c9UFO.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 187937431FDBD46000042CC9 /* 5TH3umDkIyXN21eEKQ4OZ9Q34Snsf4RVcT7xiyyLtP838dU4B1xxlGm6DO9c9UFO.jpg */; };
+		187937461FDBD5A800042CC9 /* 17241-200.png in Resources */ = {isa = PBXBuildFile; fileRef = 187937451FDBD5A700042CC9 /* 17241-200.png */; };
+		187937481FDBD5B700042CC9 /* password.png in Resources */ = {isa = PBXBuildFile; fileRef = 187937471FDBD5B600042CC9 /* password.png */; };
+		1879374A1FDBD60D00042CC9 /* 708077-200.png in Resources */ = {isa = PBXBuildFile; fileRef = 187937491FDBD60D00042CC9 /* 708077-200.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		18049D441FDBCE4200873082 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18049D471FDBCE4200873082 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18049D491FDBCE4200873082 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		187937411FDBD38600042CC9 /* Screen Shot 2560-12-09 at 9.00.14 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2560-12-09 at 9.00.14 AM.png"; sourceTree = "<group>"; };
+		187937431FDBD46000042CC9 /* 5TH3umDkIyXN21eEKQ4OZ9Q34Snsf4RVcT7xiyyLtP838dU4B1xxlGm6DO9c9UFO.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5TH3umDkIyXN21eEKQ4OZ9Q34Snsf4RVcT7xiyyLtP838dU4B1xxlGm6DO9c9UFO.jpg; sourceTree = "<group>"; };
+		187937451FDBD5A700042CC9 /* 17241-200.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "17241-200.png"; sourceTree = "<group>"; };
+		187937471FDBD5B600042CC9 /* password.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = password.png; sourceTree = "<group>"; };
+		187937491FDBD60D00042CC9 /* 708077-200.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "708077-200.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +68,11 @@
 				18049D3F1FDBCE4200873082 /* ViewController.swift */,
 				18049D411FDBCE4200873082 /* Main.storyboard */,
 				18049D441FDBCE4200873082 /* Assets.xcassets */,
+				187937491FDBD60D00042CC9 /* 708077-200.png */,
+				187937471FDBD5B600042CC9 /* password.png */,
+				187937451FDBD5A700042CC9 /* 17241-200.png */,
+				187937431FDBD46000042CC9 /* 5TH3umDkIyXN21eEKQ4OZ9Q34Snsf4RVcT7xiyyLtP838dU4B1xxlGm6DO9c9UFO.jpg */,
+				187937411FDBD38600042CC9 /* Screen Shot 2560-12-09 at 9.00.14 AM.png */,
 				18049D461FDBCE4200873082 /* LaunchScreen.storyboard */,
 				18049D491FDBCE4200873082 /* Info.plist */,
 			);
@@ -123,8 +138,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				187937481FDBD5B700042CC9 /* password.png in Resources */,
 				18049D481FDBCE4200873082 /* LaunchScreen.storyboard in Resources */,
+				187937421FDBD38600042CC9 /* Screen Shot 2560-12-09 at 9.00.14 AM.png in Resources */,
 				18049D451FDBCE4200873082 /* Assets.xcassets in Resources */,
+				187937441FDBD46000042CC9 /* 5TH3umDkIyXN21eEKQ4OZ9Q34Snsf4RVcT7xiyyLtP838dU4B1xxlGm6DO9c9UFO.jpg in Resources */,
+				1879374A1FDBD60D00042CC9 /* 708077-200.png in Resources */,
+				187937461FDBD5A800042CC9 /* 17241-200.png in Resources */,
 				18049D431FDBCE4200873082 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
