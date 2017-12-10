@@ -36,8 +36,33 @@ class ViewController: UIViewController {
         
         //show log
         print("login here userId -> \(userString) , pass \(passString)" )
+        
+        
+        
         showResultString = "Authen Fail"
         
+        //print("Result ==> \(dicMemberString[userString]!)")
+        if (dicMemberString[userString] != nil){
+            //pass
+            let chkpass = dicMemberString[userString]!
+            
+            print("pass \(chkpass)")
+            
+            if( passString == chkpass ){
+                showResult.text = displayStrings[3]
+            }else{
+                showResult.text = displayStrings[2]
+            }
+            
+            
+        }else{
+            //not pass
+            showResult.text = displayStrings[1]
+        }
+        
+        
+        //Chk User
+        /*
         if(userString == "" && passString == ""){
             print(displayStrings[0])
             showResultString = displayStrings[0]
@@ -53,10 +78,10 @@ class ViewController: UIViewController {
         else if(userString == "admin" && passString == "admin" ){
             print(displayStrings[3] )
             showResultString = displayStrings[3]
-        }
+        }*/
                 
         //Setting display result
-        showResult.text = showResultString
+        //showResult.text = showResultString
     }
     
     
