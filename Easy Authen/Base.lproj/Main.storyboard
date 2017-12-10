@@ -73,6 +73,7 @@
                     </view>
                     <connections>
                         <outlet property="passwordTextField" destination="L6m-wk-ZE4" id="Bdl-Fc-PDb"/>
+                        <outlet property="showResult" destination="HGk-4N-n0C" id="jjJ-Bw-BhN"/>
                         <outlet property="userTextField" destination="57m-Eh-HDC" id="o8O-mq-uNj"/>
                     </connections>
                 </viewController>
