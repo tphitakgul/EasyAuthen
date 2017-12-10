@@ -42,6 +42,18 @@ class ViewController: UIViewController {
         showResultString = "Authen Fail"
         
         //print("Result ==> \(dicMemberString[userString]!)")
+        
+        /*
+         if var chkpass = dicMemberString[userString] {
+             if( passString == chkpass ){
+                showResult.text = displayStrings[3]
+             }else{
+                showResult.text = displayStrings[2]
+             }
+         }
+         */
+        
+        
         if (dicMemberString[userString] != nil){
             //pass
             let chkpass = dicMemberString[userString]!
